@@ -1,0 +1,2 @@
+# osiloscopeProject
+Elektronic
