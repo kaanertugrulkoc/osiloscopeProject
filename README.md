@@ -1,4 +1,7 @@
 # osiloscopeProject
+
+open source
+
 Elektronic
 ![7f771f890ad9af07d9c1016b23ee611d](https://github.com/user-attachments/assets/d219598a-032c-4356-984a-3afa4c064d89)
 
